@@ -31,3 +31,7 @@ python demo_toolbox.py -d <datasets_root>
 or
 python demo_toolbox.py
 
+# Version 2 - VOICE CLONING using TorToise TTS
+
+To run the model you just have to run the Google Colab Notebook
+
