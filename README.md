@@ -9,6 +9,9 @@ I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and se
 # Version 1 - VOICE CLONING using SV2TTS
    For Detailed installation use the below Github link.
    Github Link:= [https://github.com/CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning#real-time-voice-cloning)
+
+   ![Screenshot 2023-07-19 135659](https://github.com/KuNNaL2412/VoiceCloning/assets/94506399/619a54ae-4721-4855-8779-a2c7ec5feba6)
+
 1. Install Requirements
    Both Windows and Linux are supported. A GPU is recommended for training and for inference speed, but is not mandatory.
 
