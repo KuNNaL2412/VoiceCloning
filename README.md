@@ -45,3 +45,6 @@ I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and se
 
    To run the model you just have to run the Google Colab Notebook
 
+
+
+***NOTE: I wasn't able to upload large files on GitHub that's why I have used Google drive***
