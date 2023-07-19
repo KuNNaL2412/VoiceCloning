@@ -2,7 +2,7 @@
 
 I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and second one using TorToise TTS
 
-# I have uploaded the outputs, models and demo videos on Google Drive:- https://drive.google.com/drive/folders/1GFbnzay_ZITPchtusix9Pdy6djtTptgZ?usp=sharing
+# I have uploaded the outputs, models and demo videos of both the versions on Google Drive:- https://drive.google.com/drive/folders/1GFbnzay_ZITPchtusix9Pdy6djtTptgZ?usp=sharing
 
 # Version 1 - VOICE CLONING using SV2TTS
    Github Link:= [https://github.com/CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning#real-time-voice-cloning)
