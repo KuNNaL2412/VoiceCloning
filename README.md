@@ -26,7 +26,9 @@ If all tests pass, you're good to go.
 For playing with the toolbox alone, I only recommend downloading LibriSpeech/train-clean-100. Extract the contents as <datasets_root>/LibriSpeech/train-clean-100 where <datasets_root> is a directory of your choosing. Other datasets are supported in the toolbox, see here. You're free not to download any dataset, but then you will need your own data as audio files or you will have to record it with the toolbox.
 
 5. Launch the Toolbox
+   
 You can then try the toolbox:
+
 python demo_toolbox.py -d <datasets_root>
 or
 python demo_toolbox.py
