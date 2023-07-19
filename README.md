@@ -47,4 +47,5 @@ I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and se
 
 
 
-***NOTE: I wasn't able to upload large files on GitHub that's why I have used Google drive***
+***NOTE: I wasn't able to upload large files on GitHub that's why I have used Google Drive***
+***NOTE: DUE TO THE LIMITATION OF MY LAPTOP's HARDWARE, I WAS NOT ABLE TO TRAIN AND IMPLEMENT THE PROJECTS PROPERLY***
