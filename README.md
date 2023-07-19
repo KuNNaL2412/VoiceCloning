@@ -1,6 +1,8 @@
 # VoiceCloning
 
-I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and second one using TorToise TTS
+I am sorry for the inconvenience but I wasn't able to upload large files on GitHub that's why I have used Google Drive.
+
+I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and second one using TorToise TTS.
 
 # I have uploaded the outputs, models and demo videos of both the versions on Google Drive:- https://drive.google.com/drive/folders/1GFbnzay_ZITPchtusix9Pdy6djtTptgZ?usp=sharing
 
@@ -46,7 +48,5 @@ I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and se
    To run the model you just have to run the Google Colab Notebook
 
 
-
-***NOTE: I wasn't able to upload large files on GitHub that's why I have used Google Drive***
 
 ***NOTE: DUE TO THE LIMITATION OF MY LAPTOP's HARDWARE, I WAS NOT ABLE TO TRAIN AND IMPLEMENT THE PROJECTS PROPERLY***
