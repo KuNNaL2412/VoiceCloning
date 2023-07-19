@@ -43,6 +43,20 @@ I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and se
 
    python demo_toolbox.py
 
+EVALUATION OF THE MODEL:
+
+The evaluation of the model is done on the basis of:-  
+
+Generalized End-To-End Loss for Speaker Verification (GE2E) Embedding Output: 
+![Screenshot 2023-07-19 135726](https://github.com/KuNNaL2412/VoiceCloning/assets/94506399/158e2a77-caf4-483d-bc51-ea2e6f40388f)
+
+Mel Spectrogram:
+![Screenshot 2023-07-19 135742](https://github.com/KuNNaL2412/VoiceCloning/assets/94506399/903eff8c-5f57-4eb7-8c6f-92542a22acdf)
+
+and Cluster Formation for input and output voices: where a dot determines an input and a cross determines an output.
+![Screenshot 2023-07-19 135759](https://github.com/KuNNaL2412/VoiceCloning/assets/94506399/1fc45c52-6c71-4c44-876d-c4c7aa2a396b)
+
+
 # Version 2 - VOICE CLONING using TorToise TTS
 
    To run the model you just have to run the Google Colab Notebook
