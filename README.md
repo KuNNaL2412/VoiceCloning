@@ -18,7 +18,7 @@ I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and se
    Install the remaining requirements with pip install -r requirements.txt
 
 2. (Optional) Download Pretrained Models
-   Pretrained models are now downloaded automatically. If this doesn't work for you, you can manually download them here.
+   Pretrained models are now downloaded automatically.
 
 3. (Optional) Test Configuration
    Before you download any dataset, you can begin by testing your configuration with:
