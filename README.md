@@ -8,10 +8,15 @@ I have Implemented 2 versions of Voice Cloner, the first one using SV2TTS and se
 Github Link:= [https://github.com/CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning#real-time-voice-cloning)
 1. Install Requirements
 Both Windows and Linux are supported. A GPU is recommended for training and for inference speed, but is not mandatory.
+
 Python 3.7 is recommended. Python 3.5 or greater should work, but you'll probably have to tweak the dependencies' versions. I recommend setting up a virtual environment using venv, but this is optional.
+
 Install ffmpeg. This is necessary for reading audio files.
+
 Install PyTorch. Pick the latest stable version, your operating system, your package manager (pip by default) and finally pick any of the proposed CUDA versions if you have a GPU, otherwise pick CPU. Run the given command.
+
 Install the remaining requirements with pip install -r requirements.txt
+
 2. (Optional) Download Pretrained Models
 Pretrained models are now downloaded automatically. If this doesn't work for you, you can manually download them here.
 
