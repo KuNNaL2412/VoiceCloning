@@ -30,7 +30,9 @@ For playing with the toolbox alone, I only recommend downloading LibriSpeech/tra
 You can then try the toolbox:
 
 python demo_toolbox.py -d <datasets_root>
+
 or
+
 python demo_toolbox.py
 
 # Version 2 - VOICE CLONING using TorToise TTS
